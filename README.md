@@ -1,2 +1,3 @@
 # Design-Showcase
-Showcasing use of design environments including: Photoshop, Illustrator, InDesign
+Showcasing use of design environments.
+Programs used include: Photoshop, Illustrator, InDesign
