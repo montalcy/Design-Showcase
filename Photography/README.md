@@ -1,12 +1,17 @@
 # 📸 Photography Portfolio 
 
 ## Overview
-Welcome to my portfolio! 
+Welcome to my photography portfolio! 
 
  📸 Sample Images
 Here are a few snapshots from my photography collection:
 
-<img src="./myimage.jpg">
+<img src="./glasses.jpg">
+<img src="./glass.jpg">
+<img src="./michael.jpg">
+<img src="./mirror.jpg">
+<img src="./graffiti.JPG">
+<img src="./me.JPG">
 
 
 🌟 Explore More  🌟
