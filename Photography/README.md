@@ -1,4 +1,4 @@
-# 📸 Photography Portfolio 
+# 📸 Photography 
 
 ## Overview
 Welcome to my photography portfolio! 
